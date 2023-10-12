@@ -22,8 +22,8 @@ function Footer() {
             onClick={() => router.push("/")}
             className={`flex cursor-pointer  items-end text-[30px] spacing-[1px] text-white font-black `}
           >
-            <span className="text-blue-800  font-black">A</span>
-            NIMΞX
+            <span className="text-blue-800  font-black">ANIM</span>
+            XΞR
           </h1>
 
           <div className="flex gap-1">
@@ -56,14 +56,14 @@ function Footer() {
         <hr className="my-4 border-gray-200 sm:mx-auto dark:border-gray-400 lg:my-6 z-[1] relative" />
         <div className="flex flex-col gap-2">
           <span className="block  text-gray-200 text-center z-[1]  relative">
-            Animex does not store any files on our server, we only linked to the
+            AnimXer does not store any files on our server, we only linked to the
             media which is hosted on 3rd party services.
           </span>
 
           <span className="block text-sm text-gray-400 text-center z-[1] relative">
             © 2023{" "}
             <a href="#" className="hover:underline">
-              AnimexStream™
+              AnimXerStream™
             </a>
             . All Rights Reserved.
           </span>
