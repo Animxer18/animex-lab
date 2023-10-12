@@ -9,11 +9,11 @@ import Link from "next/link";
 import NextTopLoader from "nextjs-toploader";
 
 export const metadata: Metadata = {
-  title: "Animex",
+  title: "AnimXer",
   description:
-    "Animex - Watch Anime for free in HD quality with English subbed or dubbed. You can watch anime online free in HD. Best place for free find and one-click anime. English Subbed and Dubbed anime online. WATCH NOW!",
+    "AnimXer - Watch Anime for free in HD quality with English subbed or dubbed. You can watch anime online free in HD. Best place for free find and one-click anime. English Subbed and Dubbed anime online. WATCH NOW!",
   keywords:
-    "Animex, animex , animexstream, anime, anime live, free anime, anime stream, anime hd, english sub, kissanime, gogoanime, animeultima, 9anime, 123animes, animefreak, vidstreaming, gogo-stream",
+    "AnimXer, animxer , animxerstream, anime, anime live, free anime, anime stream, anime hd, english sub, kissanime, gogoanime, animeultima, 9anime, 123animes, animefreak, vidstreaming, gogo-stream",
   icons: "/logo",
 };
 
@@ -64,7 +64,7 @@ export default function RootLayout({
               href="/"
               className="btn btn-ghost normal-case text-xl rounded-full"
             >
-              ANIMEX
+              ANIMXER
             </a>
           </div>
           <div className="navbar-end">
